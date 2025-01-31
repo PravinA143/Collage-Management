@@ -1,0 +1,177 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.abc{
+
+    height: 500px;
+    width: 100%;
+    /* background-image: url("Clg image.jpg"); */
+    background-color: #f4f1f1;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    alt: pravin;
+}
+
+.navbar{
+
+    height: 150px;
+    width: 100%;
+    background-color: lightgrey;
+    border-bottom: black solid 2px;
+    position:sticky;
+    top: 0px;
+}
+
+.logo{
+
+    height: 100%;
+    width: 15%;
+    margin-top: 5px;
+    float: left;
+    filter: blur(0.3px);
+
+}
+
+.logo img{
+
+    width: 150px;
+    height: 90%;
+    margin-left:30px ;
+   
+
+}
+
+.clg-name{
+
+    height: 80%;
+    width: 50%;
+    float: left;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 200px;
+    color:red;
+    font-family: 'Times New Roman';
+}
+
+.next-line{
+
+    color: black;
+    margin-top: 10px;
+    margin-left:120px;
+}
+/* .title{
+
+    display: inline;
+    margin-left: 50px;
+
+} */
+
+.content-main{
+
+    height: 100px;
+    width: 1%;
+    float: left;
+}
+
+.content li a{
+    
+    text-decoration:none;
+    float: left;
+    margin-top: 28px;
+    margin-left: 80px;
+    color: black;
+
+}
+
+.content li a:hover{
+
+    color: rgb(246, 20, 20);
+} 
+
+.welcome{
+
+    color: orange;
+    font-size: 30px;
+    padding: 70px;
+    margin-top: 50px;
+
+}		
+
+ 
+
+ .login-container{
+
+     height: 290px;
+     width: 250px;
+     background-color: black;
+     border: groove 1px ;
+     border-radius: 10px;
+     margin-left: 400px;
+    margin-top: 50px;
+ }
+
+ .login{
+
+     width: 90%;
+     height: 30px;
+     margin-top: 20px;
+     margin-left: 10px;
+     background-color: white;
+     border-radius: 10px;
+     text-align: center;
+     font-size: 25px;
+
+ }
+
+ .enter input{ 
+
+     width: 90%;
+     height:25px;
+     background-color: black;
+     border-top: none;
+     border-left: none;
+     border-right: none;
+     border-bottom: 1px solid orange;
+     margin-top: 20px;
+     margin-left: 10px;
+     font-size: 10px;
+     padding-bottom: 5px;
+     color: white;
+
+
+ }
+
+ .enter button{
+
+     width: 90%;
+     background-color: orange;
+     margin-top: 5px;
+     margin-left: 10px;
+     padding: 5px;
+     border-radius: 10px;
+     cursor: pointer;
+     color: white;
+ }
+
+ .enter p{
+
+     color: white;
+     margin-left: 50px;
+     margin-bottom: 0px;
+
+ }
+
+ .enter a{
+
+     color: orange;
+     margin-left: 90px;
+ }
+
+ .enter span{
+
+     color: white;
+ }

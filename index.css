@@ -1,0 +1,87 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-div{
+
+    height: 600px;
+    width: 100%;
+    background-image: url("Clg image.jpg") ;  
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.navbar{
+
+    height: 80px;
+    width: 100%;
+    background:linear-gradient(white,pink);
+    position:sticky;
+    top: 0px;
+}
+
+.logo{
+
+    height: 100%;
+    width: 15%;
+    margin-top: 5px;
+    float: left;
+    filter: blur(0.3px);
+
+}
+
+.logo img{
+
+    width: 80px;
+    height: 90%;
+    margin-left:30px ;
+   
+
+}
+
+.clg-name{
+
+    height: 80%;
+    width: 30%;
+    float: left;
+    font-size: 22px;
+    margin-top: 25px;
+    color:red;
+}
+
+.content-main{
+
+    height: 100px;
+    width: 55%;
+    float: left;
+}
+
+.content li a{
+    
+    text-decoration:none;
+    float: left;
+    margin-top: 28px;
+    margin-left: 50px;
+    color: black;
+
+}
+
+.content li a:hover{
+    
+    color: rgb(246, 20, 20);
+} 
+
+
+
+
+.welcome{
+
+    height: 50px;
+    width: 100%;
+    margin-top:5px;
+    margin-left:150pxpx;
+    color: black;
+}
+
